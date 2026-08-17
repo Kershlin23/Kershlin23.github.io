@@ -265,7 +265,7 @@ img {
     color: var(--text-dark);
     line-height: 1.1;
     letter-spacing: -0.03em;
-    margin-bottom: 16px;
+    margin-bottom: 32px;
 }
 
 .hero-subtitle {
